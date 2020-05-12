@@ -50,16 +50,11 @@ Your goal today will be to manipulate the data using array methods and callbacks
 
 ### Task 1: Set up Project
 
-Using VSCode and a Command Line:
-
-1. Fork repo and add TL as collaborator on Github.
-2. Clone your fork (not Lambda's repo by mistake!).
-3. `cd` into your newly cloned repository.
-4. Create a new branch by typing `git checkout -b <firstName-lastName>`.
+[Redacted]
 
 ### Task 2: Minimum Viable Product
 
-Find the file `index.js` and complete the tasks until all of your tests pass.
+Find the file `index.js` and complete the tasks.
 
 You may want to use the [World Cup summary data](https://www.foxsports.com/soccer/fifa-world-cup/history) on Fox Sports to check your math as you go.
 
