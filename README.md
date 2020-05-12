@@ -1,4 +1,4 @@
-# FIFA Challenge - JavaScript-Foundations (SOLUTIONS)
+# FIFA Challenge - JavaScript-Foundations (SOLUTION)
 I stumbled upon LAMBDA's curriculum and I am using her in-house student challenges to verify my self-taught knowledge of Web Programming(Javascript).
 
 
