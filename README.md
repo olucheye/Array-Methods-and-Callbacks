@@ -1,4 +1,7 @@
-# FIFA Challenge - JavaScript-Foundations
+# FIFA Challenge - JavaScript-Foundations (SOLUTIONS)
+I stumbled upon LAMBDA's curriculum and I am using her in-house student challenges to verify my self-taught knowledge of Web Programming(Javascript).
+`Updated: Solved the challenges with little or no refrence`
+
 
 ## Advanced JavaScript
 
@@ -100,8 +103,4 @@ Win conditions": "France win on penalties (3 - 4)",
 
 ## Submission Format
 
-Follow these steps for completing your project.
-
-- [ ] Submit a pull request to merge Branch into master (student's Repo). Please don't merge your own pull request.
-- [ ] Add your Team Lead as a reviewer on the pull request.
-- [ ] Your Team Lead will count the project as complete by merging the branch back into master.
+[Redacted]
